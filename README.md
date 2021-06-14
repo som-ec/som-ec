@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @som-ec
-- 👀 I’m interested in cricket
+- 👋 Hi, I’m som
+- 👀 I’m interested in coding and cricket
 - 🌱 I’m currently learning B.Tech (ECE)
 - 💞️ I’m looking to collaborate on ANDROID DEVELOPMENT
 - 📫 https://www.instagram.com/white__hat__
